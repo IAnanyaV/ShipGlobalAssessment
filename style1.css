@@ -1,0 +1,44 @@
+body{
+    background-color:#3483eb;
+    text-align: center;
+  }
+  
+  .container{
+    background-color:whitesmoke;
+    border: solid black 2px;
+    border-radius:10px;
+    width:50%;
+    height:50%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    padding:10px;
+  }
+  p{
+    font-size: 30px;
+  }
+  #input-num{
+    padding: 10px 10px;
+    font-size: 15px;
+  }
+  
+  #click-guess{
+    padding:10px 32px;
+    font-size:15px;
+  }
+  
+  #click-restart{
+    padding:10px 30px;
+    font-size:15px;
+  }
+  
+  #display-text{
+    padding: 10px;
+    font-size:20px;
+  }
+  
+  #show-attempts{
+    padding:15px;
+    font-size:20px;
+  }
